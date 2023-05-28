@@ -23,6 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
+![screenshot](https://github.com/rudransh-shrivastava/huddle-landing-page/assets/125893371/34710857-c8a8-47af-895b-1492b017470d)
 
 ### Links
 
