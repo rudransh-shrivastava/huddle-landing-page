@@ -37,6 +37,5 @@ Learned how to make a responsive design, how to use custom properties, how to us
 
 ## Author
 
-- Website - [rudransh.uk.to](http://rudransh.uk.to)
 - Frontend Mentor - [@rudransh-shrivastava](https://www.frontendmentor.io/profile/rudransh-shrivastava)
 - Twitter - [@rudranshstwt](https://www.twitter.com/rudranshstwt)
