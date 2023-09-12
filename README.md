@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/rudransh-shrivastava/huddle-landing-page)
-- Live Site URL: [Live Site](http://rudransh.uk.to/HuddleLanding/index.html)
+- Live Site URL: [Live Site](https://huddle-landing-page-rudransh.netlify.app/)
 
 ## My process
 
